@@ -46,7 +46,7 @@
 
   项目地址：https://lisiyuanblog.com
 
-  技术框架：Spring Boot+Thymeleaf+My SQL+Semantic UI
+  技术框架：Spring Boot+Thymeleaf+My SQL+Semantic UI+ActiveMQ+Jenkins
   
   项目要点：
   
