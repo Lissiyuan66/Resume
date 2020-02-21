@@ -67,7 +67,7 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 实习经历
 
-* 工作时间：2019-9——至今
+* 工作时间：2019-9——2020-1
 
 * 公司名称：搜狐畅游
 
