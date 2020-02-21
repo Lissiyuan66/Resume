@@ -42,17 +42,17 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **“小源的个人博客” 项目**
+- 项目名称：**小源的个人博客**
 
-  项目地址：https://lisiyuanblog.com
+- 项目地址：https://lisiyuanblog.com
 
-  应用技术：Spring Boot+MongoDB+My SQL+Semantic UI+Thymeleaf+ActiveMQ+Jenkins
+- 应用技术：Spring Boot+MongoDB+My SQL+Semantic UI+Thymeleaf+ActiveMQ+Jenkins
   
-  项目简介：
+- 项目简介：
   
   独立完成项目结构设计设计与开发、服务器环境的搭建、项目整体的上线部署等工作。项目开发采用**Spring Boot**框架，线上环境为**CentOS7**，主要分为**登陆模块、博客管理模块、分类管理模块、标签管理模块、用户评论模块**等。**博客内容与功能持续更新中......**
   
-  主要技术：
+- 主要技术：
   
   1、使用**kaptcha**生成验证码防止用户暴力破解管理员密码、恶意刷评论。使用**前缀树过滤**除去评论中的不文明消息，并且加入**ActiveMQ**作为中间件，用户评论时异步发送邮件通知父评论人(如果是子评论)与管理员，同时将记录存储在**MongoDB**中。
   
