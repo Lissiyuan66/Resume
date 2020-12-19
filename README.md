@@ -64,11 +64,13 @@
 
 - 项目地址：https://lisiyuanblog.com
 
+- 开源地址：https://github.com/Lissiyuan66/blog2
+
 - 应用技术：Spring Boot+MongoDB+Redis+MySQL+Semantic UI+Thymeleaf+ActiveMQ+Jenkins
   
 - 项目简介：
   
-  独立完成项目结构设计设计与开发、服务器环境的搭建、项目整体的上线部署等工作。项目开发采用**Spring Boot**框架，线上环境为**CentOS7**，主要分为**登陆模块、博客管理模块、分类管理模块、标签管理模块、用户评论模块**等。**博客内容与功能持续更新中......**
+  独立完成项目结构设计与开发、服务器环境的搭建、项目整体的上线部署等工作。项目开发采用**Spring Boot**框架，线上环境为**CentOS7**，主要分为**登陆模块、博客管理模块、分类管理模块、标签管理模块、用户评论模块**等。**博客内容与功能持续更新中......**
   
 - 主要技术：
   
