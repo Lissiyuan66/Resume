@@ -26,7 +26,7 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，21岁
- - 求职意向：Java工程师
+ - 求职意向：测试开发工程师
  - 学历：本科 
  - 就读院校：黑龙江科技大学 
  - 专业：计算机科学与技术
@@ -39,14 +39,32 @@
  - 2018年申报大学生科研立项获评省级科研项目
  - CET-4
 
+## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+* 工作时间：2020-7——至今
+
+* 公司名称：字节跳动网络技术有限公司
+
+* 所在部门：西瓜视频
+
+* 所在岗位：测试开发工程师
+    
+* 工作职责：
+
+  1、负责团队内双端**UI自动化**测试的脚本编写、维护与接入工作，保持自动化稳定性95%+;
+  
+  2、针对西瓜视频和部分竞品开发**性能测试**脚本，并配合开发进行性能优化，提升多项性能指标至竞品头部;
+  
+  3、负责公司内现有的**移动端质量保障技术**在项目CI/CD流程中的落地，针对项目情况制定方案并协调同事共同完成；
+
+
+## <img src="assets/project-diagram-solid.svg" width="30px"> 个人项目
 
 - 项目名称：**小源的个人博客**
 
 - 项目地址：https://lisiyuanblog.com
 
-- 应用技术：Spring Boot+MongoDB+My SQL+Semantic UI+Thymeleaf+ActiveMQ+Jenkins
+- 应用技术：Spring Boot+MongoDB+Redis+MySQL+Semantic UI+Thymeleaf+ActiveMQ+Jenkins
   
 - 项目简介：
   
@@ -62,44 +80,17 @@
   
   4、前端采用**Semantic UI**框架使用博客页面模板进行开发，应用**Thymeleaf**技术动态渲染前端页面。
   
-  5、线上环境使用**Jenkins**自动构建达到在修改功能时无需打包、运行等工作，只需提交代码即可。
+  5、线上环境使用**Jenkins**搭建CI/CD环境，极大地节约了开发后的部署成本。
 
-
-## <img src="assets/briefcase-solid.svg" width="30px"> 实习经历
-
-* 工作时间：2019-9——2020-1
-
-* 公司名称：搜狐畅游
-
-* 所在部门：游戏官网部
-
-* 所在岗位：Java开发实习生
-
-* 使用技术：Spring boot+SpringCloud+MySQL+MongoDB+Redis
-
-* 项目描述：
-
-  部门项目主要为公司旗下所有**游戏的官网、网上商城、微信商城、活动页面**的开发工作，主要为日常针对现有网站的维护与升级，每款游戏推出**网页端抽奖、领奖品**等活动时针对活动需求开发出新的活动后台。
-
-* 工作描述：
-  1、针对活动需求，主要进行**天龙八部、刀剑神域**游戏活动页面的后台开发工作;
-  2、在项目基础功能开发完成后，针对接口编写**Jmeter**压力测试脚本，并针对压测结果进行优化工作;
-
-  3、针对公司之前一些经常重开的活动进行压力测试脚本编写并进行压力测试，根据之前的代码逻辑进行**修改与优化**;
-
-  4、日常针对慢查询日志**优化SQL语句**;
-  
-  5、能够按照项目计划，根据公司的开发要求及需求文档保质保量的完成开发任务；
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- 熟练运用Java面向对象编程，熟悉集合、多线程等，Java基础扎实，具有良好的编程习惯;
-- 熟悉常用的Java设计模式;
+- 熟练运用Java、Python面向对象语言，熟悉集合、多线程等，熟悉常用的设计模式，具有良好的编程习惯;
 - 掌握JVM内存模型，常用的GC算法及垃圾收集器、了解Synchronized、Lock、volatile以及CAS机制;
 - 掌握MySQL、Orical等关系型数据库，掌握sql语句，了解数据库锁、MVCC等机制，有一定的SQL优化经验;
 - 掌握Spring，SpringMVC，MyBatis等开源框架技术;
-- 掌握使用 JSP，Servlet，JavaBean 来进行 Web 开发;
-- 掌握使用IDEA，Eclipse，Maven，Git，SVN等项目构建和管理工具; 
+- 掌握Jmeter、Postman、Fiddler、Charles等常用工具;
+- 掌握UIAutomator、Appium等开源自动化测试框架，能够运用开源框架编写自动化测试脚本;
 - 了解Redis、MongoDB非关系型数据库; 
 - 了解SpringBoot+SpringCloud微服务架构，了解zookeeper; 
 - 了解HTML，CSS，JavaScript， jQuery，Semantic UI等前端开发技术与框架;
@@ -108,6 +99,5 @@
 
 ## <img src="assets/11.svg" width="30px">个人评价
 
- - 有较强的自学能力，热爱新技术，喜欢通过查看开发文档和源码进行学习； 
- - 注重专业基础学习和实践能力的培养，对Java编程和网站开发具有浓厚的兴趣； 
-  - 勤奋踏实，工作认真负责；性格开朗，容易与人相处，注重团队协作精神，能承受较大压力；
+ - 有较强的自学能力，热爱新技术，注重专业基础学习和实践能力的培养，喜欢通过查看开发文档和源码进行学习； 
+ - 勤奋踏实，工作认真负责；性格开朗，容易与人相处，注重团队协作精神，能承受较大压力；
