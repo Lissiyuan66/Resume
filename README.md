@@ -23,6 +23,7 @@
      </div>
  </center>
 
+
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，21岁
@@ -48,7 +49,7 @@
 * 所在部门：西瓜视频
 
 * 所在岗位：测试开发工程师
-    
+  
 * 工作职责：
 
   1、负责团队内双端**UI自动化**测试的脚本编写、维护与接入工作，保持自动化稳定性95%+;
@@ -66,11 +67,11 @@
 
 - 开源地址：https://github.com/Lissiyuan66/blog2
 
-- 应用技术：Spring Boot+MongoDB+Redis+MySQL+Semantic UI+Thymeleaf+ActiveMQ+Jenkins
+- 应用技术：SpringBoot+MongoDB+Redis+MySQL+SemanticUI+Thymeleaf+ActiveMQ+Jenkins
   
 - 项目简介：
   
-  独立完成项目结构设计与开发、服务器环境的搭建、项目整体的上线部署等工作。项目开发采用**Spring Boot**框架，线上环境为**CentOS7**，主要分为**登陆模块、博客管理模块、分类管理模块、标签管理模块、用户评论模块**等。**博客内容与功能持续更新中......**
+  独立完成项目结构设计与开发、服务器环境的搭建、项目整体的上线部署等工作。项目开发采用**Spring Boot**框架，线上环境为**CentOS7**。
   
 - 主要技术：
   
@@ -90,14 +91,13 @@
 - 熟练运用Java、Python面向对象语言，熟悉集合、多线程等，熟悉常用的设计模式，具有良好的编程习惯;
 - 掌握JVM内存模型，常用的GC算法及垃圾收集器、了解Synchronized、Lock、volatile以及CAS机制;
 - 掌握MySQL、Orical等关系型数据库，掌握sql语句，了解数据库锁、MVCC等机制，有一定的SQL优化经验;
-- 掌握Spring，SpringMVC，MyBatis等开源框架技术;
+- 掌握Spring，SpringMVC，MyBatis等开源框架技术，了解SpringBoot+SpringCloud微服务架构，了解zookeeper; 
 - 掌握Jmeter、Postman、Fiddler、Charles等常用工具;
 - 掌握UIAutomator、Appium等开源自动化测试框架，能够运用开源框架编写自动化测试脚本;
 - 了解Redis、MongoDB非关系型数据库; 
-- 了解SpringBoot+SpringCloud微服务架构，了解zookeeper; 
-- 了解HTML，CSS，JavaScript， jQuery，Semantic UI等前端开发技术与框架;
 - 了解数据结构及算法的相关知识;
 - 了解Linux常用命令;
+- 了解HTML，CSS，JavaScript， jQuery，Semantic UI等前端开发技术与框架;
 
 ## <img src="assets/11.svg" width="30px">个人评价
 
